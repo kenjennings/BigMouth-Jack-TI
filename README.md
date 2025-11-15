@@ -4,7 +4,7 @@
 
 | **Big Bmouth Jack Demo -- Version 00 - Port from VIC-20 to Atari to TI** |
 | ------- |
-| ![BIGMOUTH-JACK_V00](TIBMG.png) | 
+| ![BIGMOUTH-JACK_V00](TIBMJ.png) | 
 
 ---
 
